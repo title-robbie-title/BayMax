@@ -1,6 +1,6 @@
 #  Baymax Bot (AI Assistant using OpenAI API)
 
-Baymax Bot is a friendly terminal-based AI assistant built in Python.  
+Baymax Bot is a terminal-based AI assistant built in Python.  
 Powered by OpenAI's GPT model, it can answer any question, help with coding, give advice, or chat with you like a virtual buddy.
 
 ---
