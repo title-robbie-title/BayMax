@@ -9,7 +9,7 @@ print("Loaded key:", api_key)  # This will tell you if it's working
 
 client = OpenAI(api_key=api_key)
 
-print("🤖 BetaMax is ready! Type something (or type 'exit' to quit)\n") #this prints the message "Baymax is ready type something (or type quit to exit)" to terminal 
+print("🤖 BayMax is ready! Type something (or type 'exit' to quit)\n") #this prints the message "Baymax is ready type something (or type quit to exit)" to terminal 
 
 chat_history = [] #this resets chat 
 
